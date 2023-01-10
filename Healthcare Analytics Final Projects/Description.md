@@ -6,4 +6,6 @@ The project uses a variety of data sources to provide a comprehensive overview o
 
 ***More details about the dataset and the project are given in the project presentation.***
 
-## Skills Used - Data Analysis, Data Visualization, Data Cleaning, Data Mining, Statistical Analysis, Project Management, Communication
+## Skills Used 
+
+*Data Analysis, Data Visualization, Data Cleaning, Data Mining, Statistical Analysis, Project Management, Communication*
