@@ -1,9 +1,8 @@
 # Description
 
-**This customer segmentation marketing analytics project is designed to help a mobile app developer better understand their users and how they interact with the app.** 
+**This customer segmentation RFM analysis marketing analytics project is based on app usage data collected from survey data. The project focuses on identifying customer segments based on their usage of the app, as well as their likelihood to engage with marketing activities.**
 
-The project will involve segmenting users based on their app usage behavior, such as frequency of use, average session duration, and type of activities within the app. This information can then be used to identify customer segments and target them with customized marketing campaigns. Additionally, the project will analyze the effectiveness of different marketing campaigns by tracking engagement metrics such as downloads, installs, and conversions. Finally, the project will provide insights into user demographics, such as age and gender, to help the app developer better understand their user base.
-
+The RFM (Recency, Frequency, and Monetary) framework is used to organize the app usage data into three categories: Recency (how recently a customer has used the app), Frequency (how often a customer uses the app), and Monetary (the amount of money the customer has spent on the app). The data is then segmented into various customer segments based on their RFM scores. The goal of this project is to identify which customer segments are most likely to respond to marketing activities, as well as which activities are most likely to generate a positive response. By understanding customer segments and their usage of the app, this project will help the organization create a more effective marketing strategy.
 ## Skills Used
 
 ***Advanced data analysis, Machine learning, Database management, Data visualization, User research***
