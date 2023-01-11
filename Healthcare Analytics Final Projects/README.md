@@ -16,7 +16,14 @@ The project uses a variety of data sources to provide a comprehensive overview o
 
 ## Final Outcome 
 
-** Three Tableau Dashboards and insights for hospitals across Canadian provinces to learn and improve their wait times post Covid.**
-** You can view the tableau project from this link - **
+**3 Tableau Dashboards and insights for hospitals across Canadian provinces to learn and improve their wait times post Covid.**
+
+**1st Dashboard - Dataset Analysis**
+
+**2nd Dashboard - Pre-Covid Wait Time Analysis**
+
+**3rd Dashboard - Post-Covid Wait Time Analysis**
+
+**You can view the entire tableau project from this link -**
 
 
