@@ -9,3 +9,14 @@ The project uses a variety of data sources to provide a comprehensive overview o
 ## Skills Used 
 
 *Data Analysis, Data Visualization, Data Cleaning, Data Mining, Statistical Analysis, Project Management, Communication*
+
+## Technologies Used
+
+**Tableau**
+
+## Final Outcome 
+
+** Three Tableau Dashboards and insights for hospitals across Canadian provinces to learn and improve their wait times post Covid.**
+** You can view the tableau project from this link - **
+
+
