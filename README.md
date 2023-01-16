@@ -8,24 +8,6 @@ My portfolio includes a range of projects that I have completed over the years a
 
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
 
-## All My Work (Sorted By Most Recent)
-Here I have listed all the my data analytics projects, alongside the technology and skills used in each of them.
-
-1. **All Marketing Analytics Projects** - This portfolio showcases a collection of marketing analytics projects I have completed at various stages of my career. Each project has been chosen to demonstrate my technical expertise in a variety of analytics methods and tools used in the marketing analysis world, including churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and also some analysis tracking customer behviour and product behviour. My goal with this portfolio is to provide an overview of my work and to demonstrate the potential of leveraging data-driven insights to improve marketing performance and profitability.
-
-***All detailed explanation of the project with respect to code and necessary recommendaions is given in the python file link, which has been provided in each section.***
-
-
-Finally, I have also included a selection of the data sets that I have worked with over the years. This includes both public and private data sets, as well as datasets that I have created myself.
-
-# Data Analysis Portfolio - Devkumar Patel
-## About
-This repository is mainly for projects I have done under during my post graduation in Data Analytic for Business.
-
-My preparation for a future as a data analyst comes from the data analytic curriculum at St. Clair College,Canada in  which I learn how to clean and organise data, spot patterns and insights, make meaningful inferences, and effectively convey important findings. As I construct a portfolio of projects, I am becoming more proficient in Excel,Power Query, SQL, Python, R-Programming and its data analysis tools (Numpy, pandas, Matplotlib, Sklearn, Tensorflow, Keras). For the visualization I have strong hands on analytical tools like tableau, PowerBI and also did some other exciting things on Google Analytics. I have also done some case studies and project in project management.
-
-Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
-
 ## Table of Contents
 - [About](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#about)
 - [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
@@ -40,15 +22,39 @@ Tips: For data science projects with python, I would recomend you to install num
   - [Projects Management](https://github.com/DevkumarPatel21/data-analyst-portfolio#project-management-project)
 - [Certificates](https://github.com/DevkumarPatel21/data-analyst-portfolio#certficates)
 
-  
-# Portfolio Projects
-I will quickly describe each data analytics project in this part, along with the technology stack that was utilised to resolve the issues.
+## All My Work (Sorted By Most Recent)
+Here I have listed all the my data analytics projects, along with the technology stack that was utilised to resolve the issues.
 
+1. **All Marketing Analytics Projects** - This portfolio showcases a collection of marketing analytics projects I have completed at various stages of my career. Each project has been chosen to demonstrate my technical expertise in a variety of analytics methods and tools used in the marketing analysis world, including churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and also product and customer behaviour analysis. My goal with this portfolio is to provide an overview of my work and to demonstrate the potential of leveraging data-driven insights to improve marketing performance and profitability.
+
+***All detailed explanation of the project with respect to code and necessary recommendaions is given in the python file link, which has been provided in each section.***
+
+Finally, I have also included a selection of the data sets that I have worked with over the years. This includes both public and private data sets, as well as datasets that I have created myself.
+
+2. ## Churn Prediction Analysis on Telecommunication
+**Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
+
+**Description:** The dataset contains 7043 instances with 21 features. There is list of features have been shown in the python file. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing customer churn rate based on the several factors related with the features.)
+
+**Skills:** Data cleaning, Data preprocessing, Data analysis, Data visualization.
+
+**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib.
+
+**Result:** The feature in which company has to target to reduce the churn and based on that the necessaru recommendation is given to company.
+
+
+
+
+
+
+
+  
 # Projects based on Marketing Analysis 
 In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
 Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
 
 ***All detail explanation of the project with respect to code and necessary recommendaions is given in the python file which link is provided in each section.***
+
 ## Churn Prediction Analysis on Telecommunication
 **Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
 
