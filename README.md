@@ -34,55 +34,31 @@ This portfolio showcases a collection of marketing analytics projects I have com
 Finally, I have also included a selection of the data sets that I have worked with over the years. This includes both public and private data sets, as well as datasets that I have created myself.
 
 ## 1. Churn Prediction Analysis on Telecommunication
-**Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
+**Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Churn%20Prediction%20Analysis/Project_Churn_Prediction_Analysis.ipynb)
 
-**Description:** The dataset contains 7043 instances with 21 features. There is list of features have been shown in the python file. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing customer churn rate based on the several factors related with the features.)
+**Description:** This dataset has 7,043 entries, each with 21 different characteristics. The Python file displays the list of attributes. This project involve's loading the data, cleaning and preparing it, fixing any missing values, doing exploratory data analysis, and examining the customer churn rate in relation to the various features.
 
-**Skills:** Data cleaning, Data preprocessing, Data analysis, Data visualization.
-
-**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib.
-
-**Result:** The feature in which company has to target to reduce the churn and based on that the necessaru recommendation is given to company.
-
-
-
-
-
-
-
-  
-# Projects based on Marketing Analysis 
-In the marketing analysis I have done several projects where I have perform the churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and done some analysis on the customer behviour and product behviour. 
-Below is the numbers of project which I have done and there link of the project where it direct you to the project in which detail explanation of the project is given.
-
-***All detail explanation of the project with respect to code and necessary recommendaions is given in the python file which link is provided in each section.***
-
-## Churn Prediction Analysis on Telecommunication
-**Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
-
-**Description:** The dataset contains 7043 instances with 21 features. There is list of features have been shown in the python file. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing customer churn rate based on the several factors related with the features.)
-
-**Skills:** Data cleaning, Data preprocessing, Data analysis, Data visualization.
+**Skills:**  Data Wrangling, Exploratory Data Analysis, Statistical Analysis, Machine Learning, Data Visualization, Communication
 
 **Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib.
 
-**Result:** The feature in which company has to target to reduce the churn and based on that the necessaru recommendation is given to company.
+**Result:** Final feature which the company has to target to reduce the churn and based on that the necessaru recommendation's have been given to the company.
 
-## Customer Segmentation on App Usage
-**Code:** [Project_Customer_Segmentation.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Customer_segmentation/Project_Customer_Segmentation.ipynb)
+## 2. Customer Segmentation on App Usage
+**Code:** [Project_Customer_Segmentation.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Customer%20Segmentation%20Project/Project_Customer_Segmentation.ipynb)
 
-**Description:** The dataset contains 541909 instances with 8 feature of the sales dataset. The dataset is above the different groups of customer who used to purchased the product or services. So here in this project I have perform segmentation on different group of people using RFM and I can able to segement those customer who are loyal, who are more likely to stop the services. The detailed explanation is given in the python file.
+**Description:** The dataset consists of 541909 observations with 8 characteristics of the sales data. The data identifies distinct groups of customers who have bought products or services. In this project, I used RFM to segment these groups, thereby facilitating the identification of loyal customers and those who are likely to cease using the services. Further details are provided in the accompanying Python file.
 
 **Skills:** Data cleaning, Data preprocessing, Data insights, Data visualization.
 
 **Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, machine learning models like k-means clustering 
 
-**Result:** Recency, Frequnecy and Monetary(RFM) is being perform and several graphs plotted to get insights of the data which recommendation is given.
+**Result:** We are performing an RFM analysis and plotting several graphs to gain insights into the data, in order to provide recommendations.
 
-## Mobile Apps Behvioural Analysis
-**Code:**[Project-Mobile-App-Behavour-Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Mobile_Apps_Behaviour_Analysis/Project-Mobile-App-Behavour-Analysis.ipynb)
+## 3. Mobile Apps Behvioural Analysis
+**Code:**[Project-Mobile-App-Behavour-Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Mobile%20App%20Behavior%20Analysis/Project-Mobile-App-Behavour-Analysis.ipynb)
 
-**Description:** The dataset contians the 50000 records with 12 features of Mobile App data. Here in this dataset our dependent variable is 'Enrolled' which plays important factor in this project. Based on the this features i can analyze the number of user who enrolled in the mobile app with respect to factors like age, numscreen, minigame, premium feature.e project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), feature engineering.
+**Description:** The dataset contains 50000 records with 12 features of mobile app data. Our dependent variable, 'Enrolled', is a key factor for this project. By exploring the features, I am able to assess the number of users who have signed up for the mobile app with regards to factors such as age, number of screens, minigame, and premium features. This project involves the following steps: loading data, cleaning and preprocessing, filling in missing values, exploratory data analysis (EDA), and feature engineering.
 
 **Skills:** Data cleaning, Data preprocessing, Data insights, Data visualization, Feature Engineering, Model Building, Feature Scaling.
 
@@ -92,12 +68,12 @@ Below is the numbers of project which I have done and there link of the project 
 
 **Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib
 
-**Result:** Based on the insights it states the specfics groups of user who used the mobile app like younger age customers likley to be enrolled, customer who use to play minigames are more likley to enrolled, which customer going to be enrolled in the last hours of the day as well as for the last day of the week. It also gives information about customer like the app or not based it gives customer are more or less likely to be enrolled. So both the positive and negative about the features in which several reccommendtaion is given based on the negative features.
+**Result:** The analysis reveals that certain categories of users are more likely to sign up for the mobile app, such as younger age customers and those who play mini-games. It also provides information about customers who are likely to enroll in the last hours of the day, as well as during the last day of the week. Furthermore, customer sentiment is taken into account, and recommendations are made based on both positive and negative features of the app.
 
-## Twitter Airline Tweets Sentimental Analysis
-**Code:**[Project-Twitter-Tweets-Sentimental-Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Twitter_Sentimental_Analysis/Project-Twitter-Tweets-Sentimental-Analysis.ipynb)
+## 4. Twitter Airline Tweets Sentimental Analysis
+**Code:**[Project-Twitter-Tweets-Sentimental-Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Twitter%20Sentiment%20Analysis/Project-Twitter-Tweets-Sentimental-Analysis.ipynb)
 
-**Description:** The dataset contians the 14640 records with 15 features of twitter data.The data is about the passenger who commented the airline with their services via tweets on twitter. In this airline like US Airways, America, Southwest, Delta, Virgin America, United and US Airways. To identify the emotion of the customer regarding airlines in this sentimental analysis was  implemented. In this data the sentiment of the tweets is given as airline_sentiment like positive, negative and neutral.The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), plotting graphs like pie-charts, histogram,  Converting sentiments into binary,Models Implementation, Feature Extraction.
+**Description:** The dataset contains 14,640 records with 15 attributes related to Twitter data. It focuses specifically on the comments made by passengers about airlines and their services. Airlines such as US Airways, America, Southwest, Delta, Virgin America, United, and US Airways are included. To identify the emotions of customers regarding the airlines, a sentiment analysis was conducted. The sentiment of the tweets was labeled as 'airline_sentiment' with categories of 'positive', 'negative', and 'neutral'. The project consists of the following steps: loading data, cleaning and preprocessing, filling in missing values, exploratory data analysis (EDA), plotting pie-charts, histograms, transforming sentiments into binary, implementing models, and extracting features.
 
 **Skills:**  Data cleaning, Data preprocessing, Data insights, Data visualization, Feature Engineering, Model Building, Feature Extraction,Term frequency-inverse document frequency (TF-IDF).
 
@@ -105,56 +81,44 @@ Below is the numbers of project which I have done and there link of the project 
 
 **Models:** Naive Bayes Model, KNN, Support Vector Machine, Decision Tree Model and Random Forest.
 
-**Result:** In this project, two features are more important than other and this two features are text and airline_sentiment. Firstly, I have used the stopwords on the comments which eliminate the commomn english words from the comments. Corpus was created which is the collection of the words and I have perform feature extraction method like **Count Vectorizer** and **TF-IDF Vectortizer** before the sentiment is encoded using label encoder. After I have tested this all models with both vectoizer and able compare the best model which proves the findings are correct.
-
-## Amazon Phone Review Sentimental Analysis
-**Code:**[Project-Amazon-Phone-Review-Sentimental-Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Amazon_Phone_Review_Sentimental_Analysis/Project-Amazon-Phone-Review-Sentimental-Analysis.ipynb)
-
-
-**Description:** The dataset is about the amazon reviews on phone companies and customer review these phone brands such as Samsung, Apple, Motorola and many other phone brands in the python file with an explanation is given. In this project there two dataset which I have merged them together. The purpose of this project is to sentimental analysis of the comments on this phone brands and to find most posiive and negative comments about this phone brands based on this I have given my recommendation. I  have also identify the question based on the data and able to find companies with highest and lowest ratings.he project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), plotting graphs like histogram, word cloud,  Converting sentiments into binary,Models Implementation, Feature Extraction.
-
-**Skills:**  Data cleaning, Data preprocessing, Data insights, Data visualization, Feature Engineering, Model Building, Feature Extraction,Term frequency-inverse document frequency (TF-IDF).
-
-**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, Nltk, nltk.stopwors, corpus, importing models, TF-IDF Vectorizer.
-
-**Models:** Naive Bayes Model, Decision Tree Model and Random Forest.
-
-**Result:** n this project, two features are more important than other and this two features are text and airline_sentiment. Firstly, I have used the stopwords on the comments which eliminate the commomn english words from the comments. Corpus was created which is the collection of the words and I have perform feature extraction method like **TF-IDF Vectortizer** before the sentiment is encoded using label encoder. After I have tested this all models with both vectoizer and able compare the best model which proves the findings are correct.
-
+**Result:** In this project, two features are of paramount importance: text and airline_sentiment. I removed stopwords from the comments in order to eliminate common English words. I then created a corpus, which is a collection of words, and I performed feature extraction methods such as Count Vectorizer and TF-IDF Vectorizer before the sentiment was encoded using a label encoder. Afterward, I tested all models with both vectorizers and was able to compare the best model to prove the authenticity of the results.
 
 # Projects based on Healthcare Analysis 
 
-**Tableau Public:**[Project_Healtcare](https://public.tableau.com/app/profile/devkumar.navnitkumar.patel/viz/Project_Healtcare/Wait_Time_After_Covid)
+**Power Point Presentation:**[Project_Healtcare.pptx](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/Healthcare%20Analytics%20Final%20Projects/Healthcare%20Final%20Project%20PPT.pptx)
 
-**Power Point Presentation:**[Project_Healtcare.pptx](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Healthcare_Analysis_Projects/Healthcare%20PPT%20Final%20(2).pptx)
-
-**Project Proposal:**[Project_Proposal.pptx](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Healthcare_Analysis_Projects/Project%20Proposal%20-%20Healthcare%20Analytics.pdf)
+**Project Proposal:**[Project_Proposal.pptx](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/Healthcare%20Analytics%20Final%20Projects/Project%20Proposal%20-%20Healthcare%20Analytics.pdf)
 
 
-**Description:** The project mainly focused in the healtcare area specifically in this project our purpose to do analysis on the wait time procedures for the patients in canada with respect to  various treatments and cases by provinces of canada. From the data on the wait time procedures of Canada from the year 2008 to 2021, we want to classify them into two groups, pre-pandemic and post-pandemic to have more insights about the change or improvement in wait time. These are the milestones we wish to achieve:  We aim to analyze waiting times (in days) at the hospital by province with respect to pre-pandemic and post-pandemic. ·We aim to analyze and see trends in the number of cases of specific treatment by top province-wise before COVID-19 and after COVID-19. Looking to improve the waiting time for cancer treatment, and cardiac treatment, diagnostic imaging, joint replacement at the hospital by interpreting the behavior of the data and representing it in a visualization to provide solutions for it.
+**Description:** The project focuses on healthcare with the aim of analyzing waiting times for patients in Canada, with respect to various treatments and cases by province. We plan to compare pre-pandemic and post-pandemic data from 2008 to 2021 to identify any changes or improvements. Our goals include analyzing wait times (in days) at hospitals by province in relation to pre- and post-pandemic periods, as well as analyzing trends in the number of cases of specific treatments by the top provinces before and after COVID-19. Additionally, we aim to improve waiting times for cancer, cardiac, diagnostic imaging, and joint replacement treatments at hospitals by interpreting the data and presenting it visually to suggest solutions.
 
-***The more details about the dataset and project is given in the project presentation.***
+***More details about the dataset and project is given in the project presentation.***
 
-**Skills:** requirements gathering, designing an analytical dashboard, analysing trends of the data
+**Skills:** Data Analysis, Data Visualization, Data Cleaning, Data Mining, Statistical Analysis, Project Management, Communication
 
 **Technology:** Tableau
 
-**Result:** created an analytical dashboards that shows the trends of the wait time procedure across canada and necessary recommendation is given.
+**Result:** 3 Tableau Dashboards and insights for hospitals across Canadian provinces to learn and improve their wait times post Covid.
+
+1st Dashboard - Dataset Analysis
+
+2nd Dashboard - Pre-Covid Wait Time Analysis
+
+3rd Dashboard - Post-Covid Wait Time Analysis
+
+You can view the entire tableau project from this link -
 
 # Project based on Hotel Booking Analysis
 
 **Power BI:** [Project_Hotel_Booking](https://app.powerbi.com/home)
 
-**Description:** Have you ever thought about the best time of year to book a hotel room? Or what is the best length of stay to get the best daily rate? What if you could predict whether or not a hotel would receive an unusually high number of special requests? This hotel booking dataset can assist you in answering those questions!
-This data set contains booking information for a city hotel and a resort hotel, including when the booking was made, length of stay, number of adults, children, and/or babies, and number of available parking spaces, among other things. The data contains no personally identifiable information. The detail explanation is shown here : [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
+**Description:** Have you ever pondered the optimal time of year to book a hotel room, or the ideal duration of stay to secure the best daily rate? What if you could predict if a hotel would receive an unusually high number of special requests? This hotel booking dataset can help answer these questions!
 
-**Skills:** requirements gathering, designing an analytical dashboard, analysing trends of the data
+This data set includes booking information for both a city hotel and a resort hotel, outlining when the booking was made, the length of stay, the number of adults, children and/or babies, and the number of available parking spaces, among other details. There is no personally identifiable information in the data. For further explanation, please visit this project].(https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
+
+**Skills:** Requirements gathering, designing an analytical dashboard, analysing trends of the data
 
 **Technology:** Power BI
-
-**Result:** created an analytical dashboards that shows the trends of the wait time procedure across canada and necessary recommendation is given.
-
-# Project Management Project
 
 ** Topic: ** Food delivery application – Takeout express  and detail [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Project_Management/Project)
 
@@ -162,9 +126,3 @@ This data set contains booking information for a city hotel and a resort hotel, 
  
 # Certificates
 This are some of my certifiaction of skills which I have learned and demonstrated which you can [go to certficates](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Certificates)
-
-
-
-
-
-
