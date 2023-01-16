@@ -12,7 +12,7 @@ Tips: For data science projects with python, I would recomend you to install num
 - [About](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#about)
 - [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   - [Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-marketing-analysis)
-    - [Churn Prediction Analysis on Telecommunication](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#churn-prediction-analysis-on-telecommunication)
+    - [Churn Prediction Analysis on Telecommunication](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/tree/main/All%20Marketing%20Projects/Churn%20Prediction%20Analysis)
     - [Customer Segmentation on App Usage](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#customer-segmentation-on-app-usage)    
     - [Mobile Apps Behvioural Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#mobile-apps-behvioural-analysis)
     - [Twitter Airline Tweets Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#twitter-airline-tweets-sentimental-analysis)
@@ -27,13 +27,13 @@ Here I have listed all the my data analytics projects, along with the technology
 
 ## All Marketing Analytics Projects 
 
-**This portfolio showcases a collection of marketing analytics projects I have completed at various stages of my career. Each project has been chosen to demonstrate my technical expertise in a variety of analytics methods and tools used in the marketing analysis world, including churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and also product and customer behaviour analysis. My goal with this portfolio is to provide an overview of my work and to demonstrate the potential of leveraging data-driven insights to improve marketing performance and profitability.
+This portfolio showcases a collection of marketing analytics projects I have completed at various stages of my career. Each project has been chosen to demonstrate my technical expertise in a variety of analytics methods and tools used in the marketing analysis world, including churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and also product and customer behaviour analysis. My goal with this portfolio is to provide an overview of my work and to demonstrate the potential of leveraging data-driven insights to improve marketing performance and profitability.
 
 ***All detailed explanation of the project with respect to code and necessary recommendaions is given in the python file link, which has been provided in each section.***
 
 Finally, I have also included a selection of the data sets that I have worked with over the years. This includes both public and private data sets, as well as datasets that I have created myself.
 
-## Churn Prediction Analysis on Telecommunication
+## 1. Churn Prediction Analysis on Telecommunication
 **Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
 
 **Description:** The dataset contains 7043 instances with 21 features. There is list of features have been shown in the python file. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing customer churn rate based on the several factors related with the features.)
