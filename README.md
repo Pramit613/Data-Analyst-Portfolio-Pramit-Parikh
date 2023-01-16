@@ -1,6 +1,6 @@
-# Data Analyst Portfolio
+# Data Analyst Portfolio - Pramit Parikh
 
-## Who Am I?
+## About - 
 My name is Pramit Parikh and I am a Data Analyst with a proven track record of success in data-driven decision making and problem-solving. I have extensive experience in using data to identify patterns, trends, and insights in order to make informed decisions. I am highly proficient in data visualization, data analysis, data wrangling, and statistical analysis. My portfolio showcases my data management and analysis skills, which I have acquired through a combination of formal education, professional experience, and self-teaching.
 
 ## What Have I Done?
