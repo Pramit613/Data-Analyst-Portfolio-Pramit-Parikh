@@ -119,7 +119,9 @@ This data set includes booking information for both a city hotel and a resort ho
 
 **Technology:** Power BI
 
-** Topic: ** Food delivery application – Takeout express  and detail [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Project_Management/Project)
+# Microsoft Project
+
+**Topic:** Food delivery application – Takeout express  and detail [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Project_Management/Project)
 
  ** Microsoft project is needed to access the project. ** 
  
