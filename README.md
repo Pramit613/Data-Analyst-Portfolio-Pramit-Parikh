@@ -6,6 +6,8 @@ My name is Pramit Parikh and I am a Data Analyst with a proven track record of s
 ## What Have I Done?
 My portfolio includes a range of projects that I have completed over the years and most of them come from my post-graduate degree in Data Analytics for Business from St. Clair College in Canada. These projects range from simple data visualization tasks to complex data wrangling and machine learning tasks. For each of these projects, I have provided a brief description of the work that I have completed and the tools I used to complete them. These projects cover multiple fields such as marketing, healthcare, project management, finance and machine learning. My portfolio also includes my skills in data mining and predictive analytics. This includes the algorithms and techniques I have used to build models and gain insights from multiple data sets.
 
+Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
+
 ## All My Work (Sorted By Most Recent)
 Here I have listed all the my data analytics projects, alongside the technology and skills used in each of them.
 
