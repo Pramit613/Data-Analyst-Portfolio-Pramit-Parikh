@@ -10,16 +10,16 @@ Tips: For data science projects with python, I would recomend you to install num
 
 ## Table of Contents
 - [About](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#about)
-- [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
-  - [Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-marketing-analysis)
+- [Portfolio Projects](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#all-my-work-sorted-by-most-recent)
+  - [Projects based on Marketing Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#all-marketing-analytics-projects)
     - [Churn Prediction Analysis on Telecommunication](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/tree/main/All%20Marketing%20Projects/Churn%20Prediction%20Analysis)
-    - [Customer Segmentation on App Usage](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#customer-segmentation-on-app-usage)    
-    - [Mobile Apps Behvioural Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#mobile-apps-behvioural-analysis)
-    - [Twitter Airline Tweets Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#twitter-airline-tweets-sentimental-analysis)
-  - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
-  - [Projects based on Hotel Booking Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
+    - [Customer Segmentation on App Usage](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#2-customer-segmentation-on-app-usage)    
+    - [Mobile Apps Behvioural Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#3-mobile-apps-behvioural-analysis)
+    - [Twitter Airline Tweets Sentimental Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#4-twitter-airline-tweets-sentimental-analysis)
+  - [Projects based on Healthcare Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#projects-based-on-healthcare-analysis)
+  - [Projects based on Hotel Booking Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#project-based-on-hotel-booking-analysis)
   - [Projects Management](https://github.com/DevkumarPatel21/data-analyst-portfolio#project-management-project)
-- [Certificates](https://github.com/DevkumarPatel21/data-analyst-portfolio#certficates)
+- [Certificates](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#certificates)
 
 ## All My Work (Sorted By Most Recent)
 Here I have listed all the my data analytics projects, along with the technology stack that was utilised to resolve the issues.
