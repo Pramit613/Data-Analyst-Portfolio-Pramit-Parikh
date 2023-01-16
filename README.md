@@ -25,13 +25,15 @@ Tips: For data science projects with python, I would recomend you to install num
 ## All My Work (Sorted By Most Recent)
 Here I have listed all the my data analytics projects, along with the technology stack that was utilised to resolve the issues.
 
-1. **All Marketing Analytics Projects** - This portfolio showcases a collection of marketing analytics projects I have completed at various stages of my career. Each project has been chosen to demonstrate my technical expertise in a variety of analytics methods and tools used in the marketing analysis world, including churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and also product and customer behaviour analysis. My goal with this portfolio is to provide an overview of my work and to demonstrate the potential of leveraging data-driven insights to improve marketing performance and profitability.
+## All Marketing Analytics Projects 
+
+**This portfolio showcases a collection of marketing analytics projects I have completed at various stages of my career. Each project has been chosen to demonstrate my technical expertise in a variety of analytics methods and tools used in the marketing analysis world, including churn prection analysis, customer segementation analysis, sentimnetal analysis using Natural language processing and also product and customer behaviour analysis. My goal with this portfolio is to provide an overview of my work and to demonstrate the potential of leveraging data-driven insights to improve marketing performance and profitability.
 
 ***All detailed explanation of the project with respect to code and necessary recommendaions is given in the python file link, which has been provided in each section.***
 
 Finally, I have also included a selection of the data sets that I have worked with over the years. This includes both public and private data sets, as well as datasets that I have created myself.
 
-2. ## Churn Prediction Analysis on Telecommunication
+## Churn Prediction Analysis on Telecommunication
 **Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Marketing_Analysis/Churn_Prediction_Analysis/Project_Churn_Prediction_Analysis.ipynb)
 
 **Description:** The dataset contains 7043 instances with 21 features. There is list of features have been shown in the python file. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing customer churn rate based on the several factors related with the features.)
