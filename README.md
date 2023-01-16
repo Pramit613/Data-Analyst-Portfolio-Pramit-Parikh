@@ -16,7 +16,6 @@ Tips: For data science projects with python, I would recomend you to install num
     - [Customer Segmentation on App Usage](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#customer-segmentation-on-app-usage)    
     - [Mobile Apps Behvioural Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#mobile-apps-behvioural-analysis)
     - [Twitter Airline Tweets Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#twitter-airline-tweets-sentimental-analysis)
-    - [Amazon Phone Review Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#amazon-phone-review-sentimental-analysis)
   - [Projects based on Healthcare Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-healthcare-analysis)
   - [Projects based on Hotel Booking Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
   - [Projects Management](https://github.com/DevkumarPatel21/data-analyst-portfolio#project-management-project)
