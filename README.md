@@ -27,7 +27,7 @@ My preparation for a future as a data analyst comes from the data analytic curri
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn thest basic libraries.
 
 ## Table of Contents
-- [About](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#about)
+- [About](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#about)
 - [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   - [Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-marketing-analysis)
     - [Churn Prediction Analysis on Telecommunication](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#churn-prediction-analysis-on-telecommunication)
