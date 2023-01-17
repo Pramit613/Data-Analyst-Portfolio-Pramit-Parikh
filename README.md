@@ -127,4 +127,4 @@ This data set includes booking information for both a city hotel and a resort ho
  **Microsoft project is needed to access the project.** 
  
 # Certificates
-This are some of my certifiaction of skills which I have learned and demonstrated which you can [go to certficates](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Certificates)
+These are all important certifications I have recived over the past few years, which prove my skill as a data analyst. [go to certficates]()
