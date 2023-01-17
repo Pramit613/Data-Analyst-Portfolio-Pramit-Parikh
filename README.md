@@ -114,7 +114,7 @@ You can view the entire tableau project from this link -
 
 **Description:** Have you ever pondered the optimal time of year to book a hotel room, or the ideal duration of stay to secure the best daily rate? What if you could predict if a hotel would receive an unusually high number of special requests? This hotel booking dataset can help answer these questions!
 
-This data set includes booking information for both a city hotel and a resort hotel, outlining when the booking was made, the length of stay, the number of adults, children and/or babies, and the number of available parking spaces, among other details. There is no personally identifiable information in the data. For further explanation, please visit this project].(https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Hotel%20Booking%20Analysis)
+This data set includes booking information for both a city hotel and a resort hotel, outlining when the booking was made, the length of stay, the number of adults, children and/or babies, and the number of available parking spaces, among other details. There is no personally identifiable information in the data. For further explanation, please visit this project].()
 
 **Skills:** Requirements gathering, designing an analytical dashboard, analysing trends of the data
 
@@ -122,7 +122,7 @@ This data set includes booking information for both a city hotel and a resort ho
 
 # Microsoft Project
 
-**Topic:** Food delivery application – Takeout express  and detail [go to project](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Project_Management/Project)
+**Topic:** Food delivery application – Takeout express  and detail [go to project](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/Project%20Management%20Work/Final%20Project/Final%20Project%20Submission%20(1).mpp)
 
  ** Microsoft project is needed to access the project. ** 
  
