@@ -12,10 +12,10 @@ Tips: For data science projects with python, I would recomend you to install num
 - [About](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#about)
 - [Portfolio Projects](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#all-my-work-sorted-by-most-recent)
   - [Projects based on Marketing Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#all-marketing-analytics-projects)
-    - [Churn Prediction Analysis on Telecommunication](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/tree/main/All%20Marketing%20Projects/Churn%20Prediction%20Analysis)
-    - [Customer Segmentation on App Usage](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#2-customer-segmentation-on-app-usage)    
-    - [Mobile Apps Behvioural Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#3-mobile-apps-behvioural-analysis)
     - [Twitter Airline Tweets Sentimental Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#4-twitter-airline-tweets-sentimental-analysis)
+    - [Mobile Apps Behvioural Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#3-mobile-apps-behvioural-analysis)
+    - [Customer Segmentation on App Usage](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#2-customer-segmentation-on-app-usage)
+    - [Churn Prediction Analysis on Telecommunication](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/tree/main/All%20Marketing%20Projects/Churn%20Prediction%20Analysis)
   - [Projects based on Healthcare Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#projects-based-on-healthcare-analysis)
   - [Projects based on Hotel Booking Analysis](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh#project-based-on-hotel-booking-analysis)
   - [Projects Management](https://github.com/DevkumarPatel21/data-analyst-portfolio#project-management-project)
@@ -32,29 +32,20 @@ This portfolio showcases a collection of marketing analytics projects I have com
 
 Finally, I have also included a selection of the data sets that I have worked with over the years. This includes both public and private data sets, as well as datasets that I have created myself.
 
-## 1. Churn Prediction Analysis on Telecommunication
-**Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Churn%20Prediction%20Analysis/Project_Churn_Prediction_Analysis.ipynb)
+## 1. Twitter Airline Tweets Sentimental Analysis
+**Code:**[Project-Twitter-Tweets-Sentimental-Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Twitter%20Sentiment%20Analysis/Project-Twitter-Tweets-Sentimental-Analysis.ipynb)
 
-**Description:** This dataset has 7,043 entries, each with 21 different characteristics. The Python file displays the list of attributes. This project involve's loading the data, cleaning and preparing it, fixing any missing values, doing exploratory data analysis, and examining the customer churn rate in relation to the various features.
+**Description:** The dataset contains 14,640 records with 15 attributes related to Twitter data. It focuses specifically on the comments made by passengers about airlines and their services. Airlines such as US Airways, America, Southwest, Delta, Virgin America, United, and US Airways are included. To identify the emotions of customers regarding the airlines, a sentiment analysis was conducted. The sentiment of the tweets was labeled as 'airline_sentiment' with categories of 'positive', 'negative', and 'neutral'. The project consists of the following steps: loading data, cleaning and preprocessing, filling in missing values, exploratory data analysis (EDA), plotting pie-charts, histograms, transforming sentiments into binary, implementing models, and extracting features.
 
-**Skills:**  Data Wrangling, Exploratory Data Analysis, Statistical Analysis, Machine Learning, Data Visualization, Communication
+**Skills:**  Data cleaning, Data preprocessing, Data insights, Data visualization, Feature Engineering, Model Building, Feature Extraction,Term frequency-inverse document frequency (TF-IDF).
 
-**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib.
+**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, Nltk, nltk.stopwors, corpus, importing models, TF-IDF Vectorizer.
 
-**Result:** Final feature which the company has to target to reduce the churn and based on that the necessaru recommendation's have been given to the company.
+**Models:** Naive Bayes Model, KNN, Support Vector Machine, Decision Tree Model and Random Forest.
 
-## 2. Customer Segmentation on App Usage
-**Code:** [Project_Customer_Segmentation.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Customer%20Segmentation%20Project/Project_Customer_Segmentation.ipynb)
+**Result:** In this project, two features are of paramount importance: text and airline_sentiment. I removed stopwords from the comments in order to eliminate common English words. I then created a corpus, which is a collection of words, and I performed feature extraction methods such as Count Vectorizer and TF-IDF Vectorizer before the sentiment was encoded using a label encoder. Afterward, I tested all models with both vectorizers and was able to compare the best model to prove the authenticity of the results.
 
-**Description:** The dataset consists of 541909 observations with 8 characteristics of the sales data. The data identifies distinct groups of customers who have bought products or services. In this project, I used RFM to segment these groups, thereby facilitating the identification of loyal customers and those who are likely to cease using the services. Further details are provided in the accompanying Python file.
-
-**Skills:** Data cleaning, Data preprocessing, Data insights, Data visualization.
-
-**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, machine learning models like k-means clustering 
-
-**Result:** We are performing an RFM analysis and plotting several graphs to gain insights into the data, in order to provide recommendations.
-
-## 3. Mobile Apps Behvioural Analysis
+## 2. Mobile Apps Behvioural Analysis
 **Code:**[Project-Mobile-App-Behavour-Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Mobile%20App%20Behavior%20Analysis/Project-Mobile-App-Behavour-Analysis.ipynb)
 
 **Description:** The dataset contains 50000 records with 12 features of mobile app data. Our dependent variable, 'Enrolled', is a key factor for this project. By exploring the features, I am able to assess the number of users who have signed up for the mobile app with regards to factors such as age, number of screens, minigame, and premium features. This project involves the following steps: loading data, cleaning and preprocessing, filling in missing values, exploratory data analysis (EDA), and feature engineering.
@@ -69,18 +60,28 @@ Finally, I have also included a selection of the data sets that I have worked wi
 
 **Result:** The analysis reveals that certain categories of users are more likely to sign up for the mobile app, such as younger age customers and those who play mini-games. It also provides information about customers who are likely to enroll in the last hours of the day, as well as during the last day of the week. Furthermore, customer sentiment is taken into account, and recommendations are made based on both positive and negative features of the app.
 
-## 4. Twitter Airline Tweets Sentimental Analysis
-**Code:**[Project-Twitter-Tweets-Sentimental-Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Twitter%20Sentiment%20Analysis/Project-Twitter-Tweets-Sentimental-Analysis.ipynb)
+## 3. Customer Segmentation on App Usage
+**Code:** [Project_Customer_Segmentation.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Customer%20Segmentation%20Project/Project_Customer_Segmentation.ipynb)
 
-**Description:** The dataset contains 14,640 records with 15 attributes related to Twitter data. It focuses specifically on the comments made by passengers about airlines and their services. Airlines such as US Airways, America, Southwest, Delta, Virgin America, United, and US Airways are included. To identify the emotions of customers regarding the airlines, a sentiment analysis was conducted. The sentiment of the tweets was labeled as 'airline_sentiment' with categories of 'positive', 'negative', and 'neutral'. The project consists of the following steps: loading data, cleaning and preprocessing, filling in missing values, exploratory data analysis (EDA), plotting pie-charts, histograms, transforming sentiments into binary, implementing models, and extracting features.
+**Description:** The dataset consists of 541909 observations with 8 characteristics of the sales data. The data identifies distinct groups of customers who have bought products or services. In this project, I used RFM to segment these groups, thereby facilitating the identification of loyal customers and those who are likely to cease using the services. Further details are provided in the accompanying Python file.
 
-**Skills:**  Data cleaning, Data preprocessing, Data insights, Data visualization, Feature Engineering, Model Building, Feature Extraction,Term frequency-inverse document frequency (TF-IDF).
+**Skills:** Data cleaning, Data preprocessing, Data insights, Data visualization.
 
-**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, Nltk, nltk.stopwors, corpus, importing models, TF-IDF Vectorizer.
+**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib, machine learning models like k-means clustering 
 
-**Models:** Naive Bayes Model, KNN, Support Vector Machine, Decision Tree Model and Random Forest.
+**Result:** We are performing an RFM analysis and plotting several graphs to gain insights into the data, in order to provide recommendations.
 
-**Result:** In this project, two features are of paramount importance: text and airline_sentiment. I removed stopwords from the comments in order to eliminate common English words. I then created a corpus, which is a collection of words, and I performed feature extraction methods such as Count Vectorizer and TF-IDF Vectorizer before the sentiment was encoded using a label encoder. Afterward, I tested all models with both vectorizers and was able to compare the best model to prove the authenticity of the results.
+## 4. Churn Prediction Analysis on Telecommunication
+**Code:**[Project_Churn_Prediction_Analysis.ipynb](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/All%20Marketing%20Projects/Churn%20Prediction%20Analysis/Project_Churn_Prediction_Analysis.ipynb)
+
+**Description:** This dataset has 7,043 entries, each with 21 different characteristics. The Python file displays the list of attributes. This project involve's loading the data, cleaning and preparing it, fixing any missing values, doing exploratory data analysis, and examining the customer churn rate in relation to the various features.
+
+**Skills:**  Data Wrangling, Exploratory Data Analysis, Statistical Analysis, Machine Learning, Data Visualization, Communication
+
+**Technology:** Python, Pandas, Numpy, Scipy, Seaborn, Matplotlib.
+
+**Result:** Final feature which the company has to target to reduce the churn and based on that the necessaru recommendation's have been given to the company.
+
 
 # Projects based on Healthcare Analysis 
 
