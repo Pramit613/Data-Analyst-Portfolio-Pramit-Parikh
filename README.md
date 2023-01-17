@@ -108,7 +108,7 @@ Finally, I have also included a selection of the data sets that I have worked wi
 
 You can view the entire tableau project from this link -
 
-# Project based on Hotel Booking Analysis
+# PowerBI Project based on Hotel Booking Analysis
 
 **Power BI:** [Project_Hotel_Booking](https://app.powerbi.com/home)
 
@@ -124,7 +124,7 @@ This data set includes booking information for both a city hotel and a resort ho
 
 **Topic:** Food delivery application – Takeout express  and detail [go to project](https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/Project%20Management%20Work/Final%20Project/Final%20Project%20Submission%20(1).mpp)
 
- ** Microsoft project is needed to access the project. ** 
+ **Microsoft project is needed to access the project.** 
  
 # Certificates
 This are some of my certifiaction of skills which I have learned and demonstrated which you can [go to certficates](https://github.com/DevkumarPatel21/data-analyst-portfolio/tree/main/Certificates)
