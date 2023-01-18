@@ -18,4 +18,11 @@ The project's goal is to alter the way customers purchase food from restaurants 
 
 ![image](https://user-images.githubusercontent.com/52709897/213231282-9d0433f7-ab3f-40aa-b040-23d53ec2218c.png)
 
+# Evaluation Baseline
 
+![image](https://user-images.githubusercontent.com/52709897/213231743-368acb84-ce8b-4ff6-ab93-64c7a22960ac.png)
+
+# Project Overview Dashboard (Microsoft Project)
+
+![image](https://user-images.githubusercontent.com/52709897/213232208-3e493f1f-52e1-4f93-b6ee-05de53938980.png)
+![image](https://user-images.githubusercontent.com/52709897/213232237-f7847c98-3bb0-4cbe-a636-83d697cd8067.png)
