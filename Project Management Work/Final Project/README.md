@@ -10,4 +10,7 @@ The project's goal is to alter the way customers purchase food from restaurants 
 4. An invoicing feature will be added as well, where a digital receipt will be generated for the customer and will be mailed to their provided email address or phone number. 
 5. A working backend feature will be created where restaurant owners can update their restaurant menus on their own from the app directly. 
 
+# Solution and Cost Estimation (EXPERT JUDGEMENT)
+
+![image](https://user-images.githubusercontent.com/52709897/213231019-2e194673-e10c-49a8-8f88-7e59935f7786.png)
 
