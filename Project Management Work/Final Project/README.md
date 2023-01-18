@@ -26,3 +26,9 @@ The project's goal is to alter the way customers purchase food from restaurants 
 
 ![image](https://user-images.githubusercontent.com/52709897/213232208-3e493f1f-52e1-4f93-b6ee-05de53938980.png)
 ![image](https://user-images.githubusercontent.com/52709897/213232237-f7847c98-3bb0-4cbe-a636-83d697cd8067.png)
+
+# Burndown Chart
+
+![image](https://user-images.githubusercontent.com/52709897/213232795-baa1c27c-29cd-4f2d-9593-0c11360fdb70.png)
+
+**PLEASE OPEN THE FINAL PROJECT PPT FILE UPLOADED HERE TO SEE ALL DETAILED DASHBOARDS AND ANALYSIS OF ONGOING PROJECT**
