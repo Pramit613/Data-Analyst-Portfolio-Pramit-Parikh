@@ -14,3 +14,8 @@ The project's goal is to alter the way customers purchase food from restaurants 
 
 ![image](https://user-images.githubusercontent.com/52709897/213231019-2e194673-e10c-49a8-8f88-7e59935f7786.png)
 
+# Work Breakdown Structure (WBS)
+
+![image](https://user-images.githubusercontent.com/52709897/213231282-9d0433f7-ab3f-40aa-b040-23d53ec2218c.png)
+
+
