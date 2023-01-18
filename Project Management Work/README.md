@@ -32,4 +32,5 @@ The project's goal is to alter the way customers purchase food from restaurants 
 ![image](https://user-images.githubusercontent.com/52709897/213232795-baa1c27c-29cd-4f2d-9593-0c11360fdb70.png)
 
 **PLEASE OPEN THE FINAL PROJECT PPT FILE UPLOADED HERE TO SEE ALL DETAILED DASHBOARDS AND ANALYSIS OF ONGOING PROJECT**
+**https://github.com/Pramit613/Data-Analyst-Portfolio-Pramit-Parikh/blob/main/Project%20Management%20Work/Final%20Project/Final%20PPT%20PM%20(3).pptx**
 
